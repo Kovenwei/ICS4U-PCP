@@ -1,0 +1,8 @@
+In class GUI 
+for def __init__ and def addrapper, you have to specify the file path in the code (line 172, line 191) 
+
+e.g for 
+
+'C:\Users\Koven\desktop\photoshopped\image'+str(imageNumber)+'.png'
+
+Specify wherever the photoshopped folder is which is in the repository 
